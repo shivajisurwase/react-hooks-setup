@@ -1,0 +1,19 @@
+{
+  "name": "react-hooks-setup",
+  "version": "1.0.0",
+  "description": "all custom hook with setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/shivajisurwase/react-hooks-setup.git"
+  },
+  "keywords": [
+    "react",
+    "hook"
+  ],
+  "author": "Shivaji & Shyamal",
+  "license": "MIT"
+}
